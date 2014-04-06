@@ -1,0 +1,31 @@
+
+
+div { 
+	outline: 1px solid #CCCCCC;
+	
+}
+
+#main-content {
+	width 350px;
+	height 100px;
+	
+	
+}
+
+.button-holder {
+	width: 176px;
+	float: left;
+	
+}
+
+.button {
+	width: 60px;
+	padding: 8px;
+	border-width: 6px;
+	border-color: red;
+	border-style: dotted;
+	float: left;
+	text-align: center;
+	cursor: pointer;
+	
+}
